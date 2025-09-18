@@ -8,5 +8,8 @@
 <p>
   Công nghệ hỗ trợ: Java Swing, Oracle
 </p>
-
+<li>
+  <p>JavaSwing: tạo UI/UX tiếp cận cơ sở dữ liệu một cách nhanh chóng hơn</p>
+  <p>Oracle: tạo cơ sở dữ liệu</p>
+</li>
 <p>Actor: Đinh Hoàng Lâm</p>
