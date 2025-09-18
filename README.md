@@ -16,7 +16,7 @@
 </li>
 
 </br>
-<h4>Actor: Đinh Hoàng Lâm</h4>
+<h4>Project Manager: Đinh Hoàng Lâm</h4>
 <li>
   <p>Frontend: Đinh Hoàng Lâm</p>
 </li>
