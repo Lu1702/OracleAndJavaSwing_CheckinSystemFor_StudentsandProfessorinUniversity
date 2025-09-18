@@ -17,3 +17,12 @@
 
 </br>
 <h4>Actor: Đinh Hoàng Lâm</h4>
+<li>
+  <p>Frontend: Đinh Hoàng Lâm</p>
+</li>
+<li>
+  <p>BackEnd: Đinh Hoàng Lâm</p>
+</li>
+<li>
+  <p>BackEnd: Nguyễn Mạnh Trường</p>
+</li>
