@@ -21,8 +21,6 @@
   <p>Frontend: Đinh Hoàng Lâm</p>
 </li>
 <li>
-  <p>BackEnd: Đinh Hoàng Lâm</p>
+  <p>BackEnd: Đinh Hoàng Lâm, Nguyễn Mạnh Trường</p>
 </li>
-<li>
-  <p>BackEnd: Nguyễn Mạnh Trường</p>
-</li>
+
