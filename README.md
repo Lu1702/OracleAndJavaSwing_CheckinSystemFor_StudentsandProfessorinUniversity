@@ -10,6 +10,10 @@
 </p>
 <li>
   <p>JavaSwing: tạo UI/UX tiếp cận cơ sở dữ liệu một cách nhanh chóng hơn</p>
+</li>
+<li>
   <p>Oracle: tạo cơ sở dữ liệu</p>
 </li>
+
+</br>
 <p>Actor: Đinh Hoàng Lâm</p>
