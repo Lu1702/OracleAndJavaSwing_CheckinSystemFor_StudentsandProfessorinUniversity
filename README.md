@@ -6,14 +6,7 @@
 <p>Giúp đẩy nhanh các tiến độ điểm danh trước các buổi học tăng hiệu suất truyền đạt kiến thức cho giảng viên cũng như cách tiếp cận kiến thức cho sinh viên</p>
 
 <p>
-
-
-
-
-
-
-
-  
+  Công nghệ hỗ trợ: Java Swing, Oracle
 </p>
 
 <p>Actor: Đinh Hoàng Lâm</p>
